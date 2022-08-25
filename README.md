@@ -25,4 +25,6 @@ ___
 
 [![support](https://i.ytimg.com/vi/O00FTZDxD0o/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBrkNxHJZLOHY1VswRLbMrjREjxew)](https://www.youtube.com/watch?v=O00FTZDxD0o&ab_channel=BogdanStashchuk, "Нажмите")
 
+>Сайт для красивого интерактива с вашем проектом на GItHub -> ([shields.io](https://shields.io/))
+
 
